@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:287577197336723456)
 <!--
 **spectreq666/spectreq666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
